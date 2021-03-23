@@ -1,5 +1,5 @@
 {
-  "name": "mageplaza/magento-2-blog-extension",
+  "name": "vidy/magento-2-blog-extension",
   "description": "Magento 2 Blog extension",
   "require": {
     "mageplaza/module-core": "^1.4.5"
